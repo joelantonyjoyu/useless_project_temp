@@ -85,20 +85,23 @@ Collision Detection – Checks whether the falling air actually touches the bask
 Unlimited Score System – The player can continue catching air without a time limit, allowing the score to increase continuously.
 Local Execution – The game can be opened directly in a modern web browser without requiring a server or internet connection.l
 
-## Screenshots
-
 ### 1. Landing Page
+
 ![Landing Page](screenshot/index.png)
 
 *This screenshot shows the main landing page of the Catch the Air game.*
 
 ### 2. Gameplay
-![Gameplay](./next.png)
+
+![Gameplay](screenshot/next.png)
 
 *This screenshot shows the player moving the basket and catching the falling air.*
 
 ### 3. Game Screen
-![Game Screen](./last.png)
+
+![Game Screen](screenshot/last.png)
+
+*This screenshot shows the game interface and the player's score.*
 
 *This screenshot shows the game interface and the player's score.*
 
