@@ -85,15 +85,22 @@ Collision Detection – Checks whether the falling air actually touches the bask
 Unlimited Score System – The player can continue catching air without a time limit, allowing the score to increase continuously.
 Local Execution – The game can be opened directly in a modern web browser without requiring a server or internet connection.l
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+## Screenshots
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+### 1. Landing Page
+![Landing Page](./index.png)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*This screenshot shows the main landing page of the Catch the Air game.*
+
+### 2. Gameplay
+![Gameplay](./next.png)
+
+*This screenshot shows the player moving the basket and catching the falling air.*
+
+### 3. Game Screen
+![Game Screen](./last.png)
+
+*This screenshot shows the game interface and the player's score.*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -127,9 +134,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nisam: Idea pitching, Designing, visual identity, Overall aesthetics
+- Devasurya: Worked on styling, final polish, development and backend logic.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
