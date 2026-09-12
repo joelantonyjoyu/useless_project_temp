@@ -88,7 +88,7 @@ Local Execution – The game can be opened directly in a modern web browser with
 ## Screenshots
 
 ### 1. Landing Page
-![Landing Page](./index.png)
+![Landing Page](screenshot/index.png)
 
 *This screenshot shows the main landing page of the Catch the Air game.*
 
